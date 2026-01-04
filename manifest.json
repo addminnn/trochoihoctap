@@ -1,0 +1,21 @@
+{
+  "name": "Streak Challenge AI — Toán 9",
+  "short_name": "StreakAI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#2563eb",
+  "description": "Streak Challenge AI Toán 9 — Trường PTDTBT THCS Mường Đun (offline).",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
